@@ -2,7 +2,7 @@
 
 ## Description
 
-- Generates random passwords involving special characters and numbers that users can generate and save for future use. Also allows them to adjust the length of the password as well.
+- Generates random passwords involving special characters and numbers that users can populate and save for future use. Also allows users to adjust the length of the password as well.
 
 - I generated this random generator to help users come up with unique passwords that would be hard to hack.
   I created the password generator using functions and string values using the variable let and prompts to alert the user of the type of password they want created.
