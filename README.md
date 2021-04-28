@@ -19,11 +19,15 @@
 - Bootstrap
 - Javascript
 
+## Installation 
+
+- npm start in the client folder
+
 ## Screenshot
 
 ![Screenshot (62)](https://user-images.githubusercontent.com/71462708/112070102-6d6f1c00-8b43-11eb-9c1f-b14ef15ded22.png)
 
-### Deployment
+## Deployment
 
 [Site](https://antonneturner.github.io/ReactPasswordGenerator/)
 
